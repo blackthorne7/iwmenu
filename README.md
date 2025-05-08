@@ -88,6 +88,11 @@ Install the package:
 Install the package with your favorite AUR helper:
 
 ```shell
+paru -S iwmenu
+```
+or
+
+```shell
 paru -S iwmenu-git
 ```
 
